@@ -4,7 +4,7 @@ It's Like Forth but in Python. But I don't know actually know since I never prog
 
 ##  Quick Start
 ```console
-$ ./lorth.py sim
-$ ./lorth.py com
+$ ./lorth.py sim ./examples/test.lorth
+$ ./lorth.py com ./examples/test.lorth
 $ ./output
 ```
